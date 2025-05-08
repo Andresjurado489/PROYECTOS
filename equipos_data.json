@@ -1,0 +1,15 @@
+{
+    "Col01": {
+        "nombre": "Club Atletico Nacional",
+        "partidos_jugados": 16,
+        "ganados": 9,
+        "empatados": 4,
+        "perdidos": 3,
+        "goles_a_favor": 31,
+        "goles_en_contra": 14,
+        "puntos_totales": 31,
+        "puntos_local": 23,
+        "puntos_visitante": 8,
+        "diferencia_goles": 17
+    }
+}
